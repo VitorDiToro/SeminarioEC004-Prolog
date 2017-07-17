@@ -1,6 +1,6 @@
 # Apresentação do Seminário de Compiladores [EC004]
 
-Apresentação do seminário da disciplica de Compiladores - Graduação em Engenharia da Computação, Inetel 2017
+Apresentação do seminário da disciplica de Compiladores - Graduação em Engenharia da Computação, Inetel 2017.
 
 **Tema definido pelo professor:** A liguagem de programação Prolog.
 
